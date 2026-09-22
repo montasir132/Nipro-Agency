@@ -42,5 +42,5 @@
 
 1. **Clone or Download the repository:**
    ```bash
-   git clone [https://github.com/your-username/nipro-agency.git](https://github.com/your-username/nipro-agency.git)
+   git clone https://github.com/montasir132/Nipro-Agency.git 
    cd Nipro-Agency
