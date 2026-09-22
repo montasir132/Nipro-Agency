@@ -35,7 +35,7 @@
 ├── js/                   # jQuery, Bootstrap JS, and custom scripting
 ├── index.html            # Main HTML document
 └── README.md             # Documentation
-
+```
 ---
 
 ## 🛠️ How to Run
